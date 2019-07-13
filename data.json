@@ -1,0 +1,178 @@
+[
+   {
+      "GuideNumber":"5000",
+      "GuideName":"中視",
+      "Affiliate": "中國電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E4%B8%AD%E8%A6%96/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5001",
+      "GuideName":"中視新聞台",
+      "Affiliate": "中國電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5002",
+      "GuideName":"中視經典台",
+      "Affiliate": "中國電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E4%B8%AD%E8%A6%96%E7%B6%93%E5%85%B8%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/c/c5/CTV_Classic.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5003",
+      "GuideName":"中視菁采台",
+      "Affiliate": "中國電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_Bravo.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5004",
+      "GuideName":"公視 PTS",
+      "Affiliate": "公廣集團公共電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%85%AC%E8%A6%96/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/PTS_Taiwan.svg/1920px-PTS_Taiwan.svg.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5005",
+      "GuideName":"公視台語台",
+      "Affiliate": "公廣集團公共電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/1920px-PTS_Taigi.svg.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5006",
+      "GuideName":"民視無線台",
+      "Affiliate": "民間全民電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E6%B0%91%E8%A6%96/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/1920px-FTV_HD_Logo.svg.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5007",
+      "GuideName":"民視第一台",
+      "Affiliate": "民間全民電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/1/1d/FTV_1st_logo_2017.jpg",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5008",
+      "GuideName":"民視新聞台",
+      "Affiliate": "民間全民電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5009",
+      "GuideName":"民視台灣台",
+      "Affiliate": "民間全民電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/7/74/FTV_Taiwan_HD_logo.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5010",
+      "GuideName":"公視3台 PTS3",
+      "Affiliate": "公廣集團公共電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%85%AC%E8%A6%963%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/82/PTS3_logo.svg/1920px-PTS3_logo.svg.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5011",
+      "GuideName":"客家電視",
+      "Affiliate": "公廣集團客家電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8%A6%96/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/thumb/3/39/HakkaTV.svg/1920px-HakkaTV.svg.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5012",
+      "GuideName":"原住民族電視台",
+      "Affiliate": "原文會",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E9%9B%BB%E8%A6%96%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5013",
+      "GuideName":"台灣電視台",
+      "Affiliate": "台灣電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%8F%B0%E8%A6%96/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/d/d2/TTV_HD_2012_logo.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5014",
+      "GuideName":"台視新聞台",
+      "Affiliate": "台灣電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5015",
+      "GuideName":"台視財經台",
+      "Affiliate": "台灣電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%8F%B0%E8%A6%96%E8%B2%A1%E7%B6%93%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/0/06/TTV_Finance_Channel_2016.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5016",
+      "GuideName":"台視綜合台",
+      "Affiliate": "台灣電視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%8F%B0%E8%A6%96%E7%B6%9C%E5%90%88%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/2/28/TTV_General_Channel_2016.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5017",
+      "GuideName":"華視CTS",
+      "Affiliate": "公廣集團華視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E8%8F%AF%E8%A6%96/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5018",
+      "GuideName":"華視教育體育文化台",
+      "Affiliate": "公廣集團華視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E8%8F%AF%E8%A6%96%E6%95%99%E8%82%B2%E9%AB%94%E8%82%B2%E6%96%87%E5%8C%96%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/6/6d/CTSIQ_2017_logo.jpg",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5019",
+      "GuideName":"華視新聞資訊台",
+      "Affiliate": "公廣集團華視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A%E5%8F%B0/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5020",
+      "GuideName":"國會頻道1",
+      "Affiliate": "公廣集團華視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%931/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/1/16/Congress_Channel_1_%28Taiwan%29.jpg",
+      "Guide": []
+   },
+   {
+      "GuideNumber":"5021",
+      "GuideName":"國會頻道2",
+      "Affiliate": "公廣集團華視",
+      "GuideURL": "https://xn--i0yt6h0rn.tw/channel/%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%932/index.json",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/zh/d/d2/Congress_Channel_2_%28Taiwan%29.jpg",
+      "Guide": []
+   }
+]
