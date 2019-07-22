@@ -8,6 +8,11 @@ python twdvbt_xmltv.py
 # 用法 (Docker)
 docker run -v ~/twdvbt_xmltv/output:/usr/src/app/output -it --rm --name my-twdvbt_xmltv twdvbt_xmltv
 
+# 使用 QNAP Container Station 運行
+* 建立 Container, 使用 wenchenx/twdvbt_xmltv 這個 Image
+* 共用資料夾設置 /Multimedia 掛載到 /usr/src/app/output
+* 建立容器之後, 會運作第一次, 執行完畢會直接停止. 之後選擇該容器按下「執行」即可
+
 # 匯入到 Plex (以 QNAP 為例)
 * 將輸出的 hdhomerun.xml 複製到 /Multimedia
 * 在 Plex 新增 HDHomeRun, 選擇自訂 XMLTV
