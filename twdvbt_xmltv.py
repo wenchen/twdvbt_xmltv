@@ -95,7 +95,7 @@ def main():
     data = loadChannel()
     data = loadGuideFromWeb(data)    
     xmltv = generatXMLTV(data)
-    saveStringToFile(xmltv, "hdhomerun.xml")
+    saveStringToFile(xmltv, "output/hdhomerun.xml")
 
   
 if __name__== "__main__":

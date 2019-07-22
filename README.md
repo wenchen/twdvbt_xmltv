@@ -2,7 +2,11 @@
 自動下載台灣數位無線電視 EPG 資料，並輸出為 XMLTV 格式，可將該 XMLTV 直接匯入到 Plex 的 LiveTV & DVR
 
 # 用法
+mkdir output
 python twdvbt_xmltv.py
+
+# 用法 (Docker)
+docker run -v ~/twdvbt_xmltv/output:/usr/src/app/output -it --rm --name my-twdvbt_xmltv twdvbt_xmltv
 
 # 匯入到 Plex (以 QNAP 為例)
 * 將輸出的 hdhomerun.xml 複製到 /Multimedia
