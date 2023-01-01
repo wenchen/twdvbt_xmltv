@@ -39,13 +39,13 @@ def loadGuideFromWeb(data):
             else:
                 gd["Title"] = pTitle.group(1)
                 gd["EpisodeNumber"] = pTitle.group(2)
-            gd["StartTime"] = guide['date'].replace("-","")+guide['time'].replace(":","")+"00 +0800"
-            gd["EndTime"] = guides[i+1]['date'].replace("-","")+guides[i+1]['time'].replace(":","")+"00 +0800"
+            gd["StartTime"] = guide['date'].replace("-","").replace("/","")+guide['time'].replace(":","")+"00 +0800"
+            gd["EndTime"] = guides[i+1]['date'].replace("-","").replace("/","")+guides[i+1]['time'].replace(":","")+"00 +0800"
             channel['Guide'].append(gd)
 
     return data
     
-def generatXMLTV(data):
+def generateXMLTV(data):
     timezone_offset = subprocess.check_output(['date', '+%z']).strip()
     xml = ET.Element("tv")
     for channel in data:
@@ -94,7 +94,7 @@ def main():
     fixDefaultEncoding()
     data = loadChannel()
     data = loadGuideFromWeb(data)    
-    xmltv = generatXMLTV(data)
+    xmltv = generateXMLTV(data)
     saveStringToFile(xmltv, "output/hdhomerun.xml")
 
   
